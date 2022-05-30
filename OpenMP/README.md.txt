@@ -1,1 +1,0 @@
-## Matrix mulitplication with openMP
