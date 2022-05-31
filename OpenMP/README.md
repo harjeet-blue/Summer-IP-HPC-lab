@@ -1,8 +1,8 @@
 # Matrix mulitplication with openMP
 ## Results
 
-### Dimension of A = 1000 * 100
-### Dimension of B = 100 * 1000
+## Dimension of A = 1000 * 100
+## Dimension of B = 100 * 1000
 
 ### thread = 1
 - ![th1](../Images/thr1.jpg)
@@ -24,8 +24,8 @@
 - ![th1](../Images/th15.jpg)
 
 
-### Dimension of A = 100 * 1000
-### Dimension of B = 1000 * 100
+## Dimension of A = 100 * 1000
+## Dimension of B = 1000 * 100
 
 ### thread = 2
 - ![th2](../Images/th2b.jpg)
