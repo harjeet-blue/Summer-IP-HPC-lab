@@ -1,5 +1,5 @@
 
-# Performance Analysis Matrix Mulitiplication using LIKWID APIs
+# Performance Analysis of Matrix Mulitiplication program using LIKWID APIs
 
 ## L3 CACHE MISSES ANALYSIS
 
